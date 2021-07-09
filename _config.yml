@@ -15,7 +15,7 @@ timezone: America/Los_Angeles
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Test                          # the main title
+title: MyCloudLab                          # the main title
 
 tagline: Hello world!   # it will display as the sub-title
 
